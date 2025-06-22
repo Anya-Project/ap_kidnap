@@ -3,7 +3,7 @@
 **ap_kidnap** is a FiveM resource designed for the QBCore Framework. This script transforms the standard, boring `/kick` and `/ban` admin commands into an immersive and cinematic kidnapping scene, complete with multiple NPCs, visual effects, and full integration with the QBCore banning system.
 
 This isn't just a utility; it's an experience.
-
+click the video!
 [![Tonton Demo](https://img.youtube.com/vi/S7kKaCfmpxo/0.jpg)](https://www.youtube.com/watch?v=S7kKaCfmpxo)
 
 ## 🎬 Key Features

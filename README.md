@@ -13,11 +13,7 @@ This script has been built from the ground up with a focus on stability, immersi
 *   **Dual Functionality:** Supports both `/kidnapkick` for warnings and `/kidnapban` for serious offenses, all within one immersive package.
 *   **Full QBCore Ban Integration:** Bans are correctly logged to the database and are **visible in `qb-adminmenu`**, maintaining server data consistency.
 *   **Dynamic Multi-NPC Scene:** The scene involves **two SWAT NPCs** with different roles: one handles dragging the player, while the other stands guard with a weapon, creating a realistic ambush scenario.
-*   **Complete Cinematic Package:**
-    *   **Locked Gameplay Camera:** The player's camera remains in the normal third-person view but is locked, preventing them from looking away and breaking the immersion.
-    *   **Widescreen Effect (Letterbox):** Cinematic black bars appear during the scene for a movie-like feel.
-    *   **Camera Shake:** A impactful jolt effect when the player is "captured," enhancing the physical sensation.
-*   **"The Setup" Scenario:** Instead of entities spawning out of thin air, the screen fades, and the player fades back in to find themselves already ambushed, creating a dramatic surprise effect.
+*   **Widescreen Effect (Letterbox):** Cinematic black bars appear during the scene for a movie-like feel.
 *   **Intelligent Entity Spawning:** Utilizes `GetClosestVehicleNode` and `PlaceObjectOnGroundProperly` to spawn entities in logical, stable positions on the roadside, reducing visual bugs.
 *   **Multi-Layered Protection (Robustness):**
     *   **Anti-Spam:** Prevents admins from accidentally running the command twice on the same target.
@@ -36,7 +32,7 @@ This script has been built from the ground up with a focus on stability, immersi
     ```
     /kidnapban [ID] [Duration in Hours] [Reason]
     ```
-    *   **Permanent Ban Example:** `/kidnapban 10 0 Major Violation`
+    *   **Permanent Ban Example:** `/kidnapban 10 0 Cheat`
     *   **24-Hour Ban Example:** `/kidnapban 10 24 RDM`
 
 ---
@@ -53,7 +49,7 @@ This script has been built from the ground up with a focus on stability, immersi
 ## 🔗 Dependencies
 
 *   [**qb-core**](https://github.com/qbcore-framework/qb-core)
-*   [**oxmysql**](https://github.com/overextended/oxmysql) (or mysql-async if you adjust the server-side code)
+*   [**oxmysql**](https://github.com/overextended/oxmysql)
 
 ---
 

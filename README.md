@@ -4,7 +4,7 @@
 
 This isn't just a utility; it's an experience.
 
-[![Watch Demo ap_kidnap](https://github.com/NAMA_ANDA/NAMA_REPO_ANDA/blob/main/demo/demo_thumbnail.png?raw=true)]([https://www.youtube.com/watch?v=S7kKaCfmpxo)
+[![Tonton Demo](https://img.youtube.com/vi/S7kKaCfmpxo/0.jpg)](https://www.youtube.com/watch?v=S7kKaCfmpxo)
 
 ## 🎬 Key Features
 
